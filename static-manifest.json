@@ -1,0 +1,199 @@
+{
+  "name": "awaken-overview",
+  "pages": [
+    "/",
+    "/liquidity/",
+    "/login/",
+    "/portfolio/",
+    "/routes/liquidity/",
+    "/routes/login/",
+    "/routes/portfolio/",
+    "/routes/signup/",
+    "/routes/swap/",
+    "/routes/trading/",
+    "/routes/transactions/",
+    "/signup/",
+    "/swap/",
+    "/trading/",
+    "/transactions/"
+  ],
+  "resources": [
+    "assets/awaken-mark.svg",
+    "assets/fonts/Roboto-Bold.ttf",
+    "assets/fonts/Roboto-Medium.ttf",
+    "assets/fonts/Roboto-Regular.ttf",
+    "assets/landing-background.svg",
+    "assets/landing-hero.png",
+    "assets/landing-logo.svg",
+    "landing.css",
+    "routes/topics.css",
+    "styles.css"
+  ],
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 20,
+      "sha256": "2bdfdb216230559f36faf46907142b8afd478401150f810e1ddaf9a4fdcc656c"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1408,
+      "sha256": "5c40d40b728da7274a8abf1c54da0a3a606e9fb750cf423e3b442f920e3b3f0c"
+    },
+    {
+      "path": "assets/awaken-mark.svg",
+      "bytes": 1503,
+      "sha256": "0e2ed97a44a304db2e86f452d2af8a73ae74bd234ca2c33b6ad0fe805ce583e8"
+    },
+    {
+      "path": "assets/fonts/Roboto-Bold.ttf",
+      "bytes": 163448,
+      "sha256": "24571503140760240924dcd1238f77e7cd0454c0d8b0793990cefa2fad71471f"
+    },
+    {
+      "path": "assets/fonts/Roboto-Medium.ttf",
+      "bytes": 160696,
+      "sha256": "02868d6a7e80d4e7836b6263dd50d26a63e923a1223c9e027aad6dc2501c27cc"
+    },
+    {
+      "path": "assets/fonts/Roboto-Regular.ttf",
+      "bytes": 158604,
+      "sha256": "16466ef65064e6f3885a6d2806b8949ac1ac38b524dd0cf8fc96565eb4cc28e8"
+    },
+    {
+      "path": "assets/landing-background.svg",
+      "bytes": 1515,
+      "sha256": "37bb856901eecf253590b79c3208620fd06e28658ce0acc2f95c1f52a1ea1b2d"
+    },
+    {
+      "path": "assets/landing-hero.png",
+      "bytes": 655931,
+      "sha256": "dede01ed5e278552b6daa1269d3eb92b8a11998a3f67d83d6c760b8148711aca"
+    },
+    {
+      "path": "assets/landing-logo.svg",
+      "bytes": 13253,
+      "sha256": "8ead58ee6900d7f471ab72851a3943e06750bf227c02ab5a83c539183828c9ae"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5049,
+      "sha256": "56a01bef18b32efa3dde0cf742d2dd57e59c223ee5bee30ee51ce09ccbe268ac"
+    },
+    {
+      "path": "landing.css",
+      "bytes": 2943,
+      "sha256": "b1369919e8adad4645c3495eb89eb136d66cdcdd1a01e29ed094ed3845d292b8"
+    },
+    {
+      "path": "liquidity/index.html",
+      "bytes": 1080,
+      "sha256": "98d84eaecfc3fd7ee1c346c61e897fc855bcf05c98b05bcb77e70a6ca5c03880"
+    },
+    {
+      "path": "login/index.html",
+      "bytes": 1136,
+      "sha256": "a8b9c07b4db93878b0dd62fad7e60fc54957fc4cad4ce25b4af7bf1092c75a84"
+    },
+    {
+      "path": "portfolio/index.html",
+      "bytes": 1092,
+      "sha256": "1b0f2de1a58a182f6e1d9f499c27381c42671cd28cee30b01be2bdd72bc372c0"
+    },
+    {
+      "path": "routes/liquidity/index.html",
+      "bytes": 1085,
+      "sha256": "ad7b8e9602edf59f9294c53aba547afc51c60a40db20e84828e3f973d2c58e79"
+    },
+    {
+      "path": "routes/login/index.html",
+      "bytes": 1141,
+      "sha256": "1e35e00f3b002ffc1290650c1b6cae5a459a616897c1552437122a5e0130d010"
+    },
+    {
+      "path": "routes/portfolio/index.html",
+      "bytes": 1097,
+      "sha256": "2c10af2827b91a446149bc9f1233cc14fceefa063625e6f777a31d9bfeeff44e"
+    },
+    {
+      "path": "routes/signup/index.html",
+      "bytes": 1123,
+      "sha256": "8ea15b9a489b814e42b97056e85bd80a6fac4f7312f597cdf5556876c73e8000"
+    },
+    {
+      "path": "routes/swap/index.html",
+      "bytes": 1047,
+      "sha256": "9229fb1d4f7812a4ccaed4f4575fab96a9353549554701cd628d061a96b6ae80"
+    },
+    {
+      "path": "routes/topics.css",
+      "bytes": 746,
+      "sha256": "c88810d02f2bbf391aa10b284fb342805b31b22d4b8b9b7fa928e04b8cc23f0d"
+    },
+    {
+      "path": "routes/trading/index.html",
+      "bytes": 1087,
+      "sha256": "96731f5b47a4b96598d8bb7ed5a56c527f75d3a594d4685ac4cc7f08d9d00f7c"
+    },
+    {
+      "path": "routes/transactions/index.html",
+      "bytes": 1061,
+      "sha256": "b785206d48de5d5fbf03365b84107c77e328fe05b5a67aa3ff46cc9161878fdf"
+    },
+    {
+      "path": "signup/index.html",
+      "bytes": 1118,
+      "sha256": "527b212826f06532c4b0cd3d60a037cd10a190e065dbe6259f3810c6ff201306"
+    },
+    {
+      "path": "styles.css",
+      "bytes": 6396,
+      "sha256": "f56d6fd149443c9a4b07cf551c3ec362c425dbe87299a8e12a5c96d27b3ffd43"
+    },
+    {
+      "path": "swap/index.html",
+      "bytes": 1042,
+      "sha256": "5ffd4aca34c493905955cd1b101ec712b531953c54301ef9098cfb1d9bda9bc5"
+    },
+    {
+      "path": "trading/index.html",
+      "bytes": 1082,
+      "sha256": "25458f3f9fe54b15a77be16c5443db20bb8a0b22da6f3f2c8e233e7ab91bf303"
+    },
+    {
+      "path": "transactions/index.html",
+      "bytes": 1056,
+      "sha256": "ab28789440b14528d393c911557499968699f387d9e84b78d9bb957a18311f65"
+    }
+  ],
+  "assetSources": {
+    "website": {
+      "repository": "Awaken-Finance/awaken-website",
+      "ref": "c20917fd36b92096ceae921dbcf5fb9749df44fd"
+    },
+    "frontend": {
+      "repository": "Awaken-Finance/awaken-frontend",
+      "ref": "1e1f975896cb002ccb668b672fbbd0eda04651af"
+    },
+    "artwork": [
+      {
+        "local": "assets/landing-hero.png",
+        "url": "https://awaken-cms-mainnet.s3.ap-northeast-1.amazonaws.com/1d93665b-4c06-4994-9b44-b4fe4a5516fc.png",
+        "observedAt": "2026-10-12",
+        "sha256": "dede01ed5e278552b6daa1269d3eb92b8a11998a3f67d83d6c760b8148711aca"
+      },
+      {
+        "local": "assets/landing-logo.svg",
+        "url": "https://awaken-cms-mainnet.s3.ap-northeast-1.amazonaws.com/a7493409-db9a-45a0-9361-a7336b7a2007.svg",
+        "observedAt": "2026-10-12",
+        "sha256": "8ead58ee6900d7f471ab72851a3943e06750bf227c02ab5a83c539183828c9ae"
+      },
+      {
+        "local": "assets/landing-background.svg",
+        "url": "https://awaken-cms-mainnet.s3.ap-northeast-1.amazonaws.com/a6d1d87a-18ca-4b31-b0b1-e11f72b561f7.svg",
+        "observedAt": "2026-10-12",
+        "sha256": "37bb856901eecf253590b79c3208620fd06e28658ce0acc2f95c1f52a1ea1b2d"
+      }
+    ]
+  }
+}

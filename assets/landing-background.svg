@@ -1,0 +1,32 @@
+<svg width="1440" height="757" viewBox="0 0 1440 757" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g opacity="0.06">
+<path d="M40 1H1400" stroke="white"/>
+<path d="M40 152H1400" stroke="white"/>
+<path d="M40 303H1400" stroke="white"/>
+<path d="M40 454H1400" stroke="white"/>
+<path d="M40 605H1400" stroke="white"/>
+<path d="M40 756H1400" stroke="white"/>
+</g>
+<g opacity="0.06">
+<path d="M40 756L40 1.00001" stroke="white"/>
+<path d="M191.111 756L191.111 1.00001" stroke="white"/>
+<path d="M342.222 756L342.222 1.00001" stroke="white"/>
+<path d="M493.333 756L493.333 1.00001" stroke="white"/>
+<path d="M644.444 756L644.444 1.00001" stroke="white"/>
+<path d="M795.556 756L795.556 1.00001" stroke="white"/>
+<path d="M946.667 756L946.667 1.00001" stroke="white"/>
+<path d="M1097.78 756L1097.78 1.00001" stroke="white"/>
+<path d="M1248.89 756L1248.89 1.00001" stroke="white"/>
+<path d="M1400 756L1400 1.00001" stroke="white"/>
+</g>
+<g opacity="0.15">
+<rect x="187" y="148" width="8" height="8" fill="white"/>
+<rect width="8" height="8" transform="matrix(-1 0 0 1 1252 148)" fill="white"/>
+<rect x="338" y="299" width="8" height="8" fill="white"/>
+<rect width="8" height="8" transform="matrix(-1 0 0 1 1101 299)" fill="white"/>
+<rect x="187" y="601" width="8" height="8" fill="white"/>
+<rect width="8" height="8" transform="matrix(-1 0 0 1 1252 601)" fill="white"/>
+<rect x="338" y="450" width="8" height="8" fill="white"/>
+<rect width="8" height="8" transform="matrix(-1 0 0 1 1101 450)" fill="white"/>
+</g>
+</svg>
