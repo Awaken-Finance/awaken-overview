@@ -2,7 +2,7 @@
 
 A concise introduction to Awaken's exchange design on aelf.
 
-[Read the guides](https://awakenfinance.gitbook.io/en/) · [Explore the contracts](https://github.com/Awaken-Finance/awaken-swap-contract) · [View blockchain records](https://aelfscan.io/)
+[Read the guides](https://awakenfinance.gitbook.io/en/) · [Explore the contracts](https://github.com/Awaken-Finance/awaken-swap-contract) · [View SwapHook on AElfScan (mainnet tDVV)](https://aelfscan.io/tDVV/address/ELF_T3mdFC35CQSatUXQ5bQ886pULo2TnzS9rfXxmsoZSGnTq2a2S_tDVV?tab=contract)
 
 ## Exchange concepts
 

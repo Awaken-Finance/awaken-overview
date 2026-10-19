@@ -37,8 +37,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 1408,
-      "sha256": "5c40d40b728da7274a8abf1c54da0a3a606e9fb750cf423e3b442f920e3b3f0c"
+      "bytes": 1509,
+      "sha256": "bae1e2f1f4c4b901e25d185283b3b87b0b14ea018494eccfca58c4e85a16ee1e"
     },
     {
       "path": "assets/awaken-mark.svg",
@@ -77,8 +77,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 5049,
-      "sha256": "56a01bef18b32efa3dde0cf742d2dd57e59c223ee5bee30ee51ce09ccbe268ac"
+      "bytes": 5159,
+      "sha256": "898b3069f78bb175b2e197f00e3355f5bcef54a550378f534b0a025be0739bb2"
     },
     {
       "path": "landing.css",
